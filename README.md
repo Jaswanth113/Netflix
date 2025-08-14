@@ -1,1 +1,1 @@
-### Demo: https://netflix-clone-two-omega-24.vercel.app/
+### Demo: https://netflix-rose-beta.vercel.app/
